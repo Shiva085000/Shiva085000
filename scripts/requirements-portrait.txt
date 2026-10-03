@@ -1,0 +1,6 @@
+# Only needed locally when you change the photo (prep_photo.py, make_ascii_svg.py).
+pillow
+numpy
+opencv-python
+# Optional: better background removal for photos without a flat backdrop.
+# rembg
