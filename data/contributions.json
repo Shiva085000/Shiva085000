@@ -1,15 +1,15 @@
 {
  "user": "Shiva085000",
- "generated_at": "2026-11-21T14:35:34+00:00",
+ "generated_at": "2026-11-22T14:29:46+00:00",
  "range": {
-  "from": "2025-11-16",
-  "to": "2026-11-21"
+  "from": "2025-11-23",
+  "to": "2026-11-22"
  },
  "stats": {
-  "total": 108,
-  "active_days": 57,
-  "current_streak": 49,
-  "longest_streak": 49,
+  "total": 109,
+  "active_days": 58,
+  "current_streak": 50,
+  "longest_streak": 50,
   "best_day": {
    "date": "2026-07-05",
    "count": 16
@@ -27,45 +27,10 @@
    "2026-08": 3,
    "2026-09": 0,
    "2026-10": 38,
-   "2026-11": 20
+   "2026-11": 21
   }
  },
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1883,6 +1848,11 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
